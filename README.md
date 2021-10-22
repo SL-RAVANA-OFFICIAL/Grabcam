@@ -18,4 +18,4 @@ Modify By HACKER RAVANA
 * `ls`
 * `cd Grabcam`
 * `ls`
-* `bash Grabcam.sh`
+* `bash grabcam.sh`
